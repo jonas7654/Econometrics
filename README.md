@@ -2,25 +2,9 @@
 
 
 ---
+### Introduction to Linear Algebra
 
-
-> “Real mathematics must be justified as art if it can be justified at all.” 
->
-> ​	― *G.H. Hardy, A Mathematician's Apology*
-
-**In case of doubts: Why even math for Economics?**
-
-> "The advancement and perfection of Mathematics are intimately connected with the prosperity of the State."
->
-> ​	― *Napoleon Bonaparte*
-
-### Resources & Tools
-
-* [Mathematics for Economists](https://primo.bib.uni-mannheim.de/permalink/f/19ojnqi/MAN_ALMA21119931390002561) *is THE introductory textbook for most topics at hand.*
-* [Wolfram Alpha](http://www.wolframalpha.com/) *has you covered for calculus, max/min problems, plots, limits etc...*
-* [Wolfram Mathworld](http://mathworld.wolfram.com/) 
-* [Encyclopedia of Mathematics](https://www.encyclopediaofmath.org)
-* [MIT OpenCourseWare](http://ocw.mit.edu/courses/mathematics/) *has virtually unlimited resources for math even beyond the scope of this course.*
+* [MIT OpenCourseWare](http://ocw.mit.edu/courses/mathematics/) 
 
 ---
 
