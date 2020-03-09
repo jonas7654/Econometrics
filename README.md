@@ -38,7 +38,7 @@ for some introduction to Statistics,Probability and asymptotics
 
 ---
 ### Software
-To apply the models discussed in your Econometrics course we usually use Software. I will list some of the common used Software in Economics.
+To apply the models discussed in your Econometrics course we usually use Software. I will list some of the common used Software in Econometrics.
 
 ***Open Source Software***
  - [R](https://www.r-project.org/) is a free software environment for statistical computing and graphics
