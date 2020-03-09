@@ -1,4 +1,4 @@
-# Introduction to Econometrics [University of Mannheim](https://www.uni-mannheim.de/)
+# Introduction to Econometrics
 
 ### Introduction to this repository
 
