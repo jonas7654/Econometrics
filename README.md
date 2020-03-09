@@ -1,6 +1,13 @@
 # Introduction to Econometrics [University of Mannheim](https://www.uni-mannheim.de/)
 
+### Introduction to this repository
 
+I have created this repository to summarize the key readings and information for an Econometrics course from my point of view.
+Please let me know if you have suggestions for improvement.
+
+Below I listed a variety of readings with regard to Linear Algebra, Statistics, Programming and of course Econometrics.
+In Addition to that there are some [Datasets](https://github.com/jonas7654/Econometrics/tree/master/Datasets
+) stored in this repository for practice purposes.
 ---
 ### Introduction to Linear Algebra
 
