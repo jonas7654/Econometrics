@@ -44,7 +44,11 @@ To apply the models discussed in your Econometrics course we usually use Statist
  - [R](https://www.r-project.org/) is a free software environment for statistical computing and graphics
  - [RStudio](https://rstudio.com/) is an integrated development environment for R. I recommend to use RStudio since it has a                        great GUI and additional tools e.g. for an easier package management
  - [Julia](https://julialang.org/) is a relatively new **high performance** programming Language. It is a gerneral purpose language aiming for easy useage and high performance.
- - [Python]
+ - [Python](https://www.python.org/) is also a general purpose language widespread under scientists from all disciplines.
+ 
+***Proprietary Software***
+ - [STATA](https://www.stata.com/) is a general-purpose statistical software package. Many economists use STATA.
+ - [MATLAB](https://www.mathworks.com/products/matlab.html) (matrix laboratory) is a multi-paradigm numerical computing  environment programming language.
 
 ---
 
