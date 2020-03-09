@@ -1,4 +1,4 @@
-# Introduction to Econometrics [University of Mannheim]
+# Introduction to Econometrics [University of Mannheim](https://www.uni-mannheim.de/)
 
 
 ---
@@ -20,14 +20,14 @@ Some Additional reading:
 ---
 ### Probability
 for some introduction to Statistics,Probability and asymptotics
-* [Bruce E. Hansen (2020) : Introduction to Econometrics](https://github.com/jonas7654/Econometrics/blob/master/pdf/Probability.pdf) 
+* [Bruce E. Hansen : Introduction to Econometrics (2020)](https://github.com/jonas7654/Econometrics/blob/master/pdf/Probability.pdf) 
 ---
 ### Econometric Readings
-* [Bruce E. Hansen (2020) : Econometrics](https://github.com/jonas7654/Econometrics/blob/master/pdf/Econometrics.pdf)
+* [Bruce E. Hansen : Econometrics (2020)](https://github.com/jonas7654/Econometrics/blob/master/pdf/Econometrics.pdf)
 * [Stock & Watson : Introduction to econometrics (2020)](https://primo-49man.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=MAN_ALMA21219219330002561&context=L&vid=MAN_UB&lang=de_DE&search_scope=MAN_ALMA&adaptor=Local%20Search%20Engine&isFrbr=true&tab=default_tab&query=any,contains,Stock%20and%20Watson%202020&sortby=date&facet=frbrgroupid,include,140512103&mode=Basic&offset=0=)
 ---
 ### Measury Theory
-***measury theory*** is important and very helpful when trying to understand most statistical results
+**measury theory** is important and very helpful when trying to understand most statistical results
 
 - [Understanding Analysis](http://cms.dm.uba.ar/academico/materias/verano2012/taller_de_calculo_avanzado/Libros/Abbott%20-%20Understanding%20Analysis.pdf) by Stephen Abbott - Chapters 6, 7, 
 - [Principles of Mathematical Analysis](https://notendur.hi.is/vae11/%C3%9Eekking/principles_of_mathematical_analysis_walter_rudin.pdf) by Walter Rudin - Chapters 6, 11.
@@ -43,14 +43,14 @@ To apply the models discussed in your Econometrics course we usually use Softwar
 ***Open Source Software***
  - [R](https://www.r-project.org/) is a free software environment for statistical computing and graphics
  
- - [RStudio](https://rstudio.com/) is an integrated development environment for R. I recommend to use RStudio since it has a                        great GUI and additional tools e.g. for an easier package management. An introduction to R is given [here](https://r4ds.had.co.nz/introduction.html)
+ - [RStudio](https://rstudio.com/) is an integrated development environment for R. I recommend to use RStudio since it has a                        great GUI and additional tools e.g. for an easier package management. An introduction to R is given [here](https://r4ds.had.co.nz/introduction.html).
  
- - [Julia](https://julialang.org/) is a relatively new **high performance** programming Language. It is a gerneral purpose language aiming for easy useage and high performance. Consider [Atom](https://atom.io/) as an IDE. An introduction to Econometrics is given [here](https://github.com/mcreel/Econometrics/blob/master/econometrics.pdf)
+ - [Julia](https://julialang.org/) is a relatively new **high performance** programming Language. It is a gerneral purpose language aiming for easy useage and high performance. Consider [Atom](https://atom.io/) as an IDE. An introduction to Econometrics is given [here](https://github.com/mcreel/Econometrics/blob/master/econometrics.pdf).
  
- - [Python](https://www.python.org/) is also a general purpose language widespread under scientists from all disciplines. An introduction to econometrics in Python is given [here](https://pyecon.org/down/pyecon.pdf)
+ - [Python](https://www.python.org/) is also a general purpose language widespread under scientists from all disciplines. An introduction to econometrics in Python is given [here](https://pyecon.org/down/pyecon.pdf).
  
 ***Proprietary Software***
- - [STATA](https://www.stata.com/) is a general-purpose statistical software package. Many economists use STATA.
+ - [STATA](https://www.stata.com/) is a general-purpose statistical software package. Many economists use STATA. An introduction to econometrics in STATA is given [here](https://github.com/jonas7654/Econometrics/blob/master/pdf/using_stata_for_principles_of_econometrics.pdf).
  
  - [MATLAB](https://www.mathworks.com/products/matlab.html) (matrix laboratory) is a multi-paradigm numerical computing  environment programming language.
  
@@ -62,7 +62,7 @@ The **[R](https://www.r-project.org/)** base Package contains all important pack
  
  * [Tidyverse](https://www.tidyverse.org/) offers a variety of packages for data manipulation, plotting and importing. 
  
- * [sandwich](https://cran.r-project.org/web/packages/sandwich/index.html) for heteroskedastic variance estimation and more. See [here](https://cran.r-project.org/web/packages/sandwich/sandwich.pdf) for more information
+ * [sandwich](https://cran.r-project.org/web/packages/sandwich/index.html) for heteroskedastic variance estimation and more. See [here](https://cran.r-project.org/web/packages/sandwich/sandwich.pdf) for more information.
  
 **[Julia](https://julialang.org/)** is not a statistical programming language in generel. But there are some useful Statistics packages.
 
@@ -72,9 +72,9 @@ The **[R](https://www.r-project.org/)** base Package contains all important pack
   
   * [GLM.jl](https://juliastats.org/GLM.jl/stable/manual/) Linear and generalized linear models in Julia.
   
-  * [Microeconometrics.jl](https://lbittarello.github.io/Microeconometrics.jl/stable/getting_started/) support for microeconometric estimation
+  * [Microeconometrics.jl](https://lbittarello.github.io/Microeconometrics.jl/stable/getting_started/) support for microeconometric estimation.
   
-  * [GARCH.jl](https://github.com/AndreyKolev/GARCH.jl) Generalized Autoregressive Conditional Heteroskedastic for Julia
+  * [GARCH.jl](https://github.com/AndreyKolev/GARCH.jl) Generalized Autoregressive Conditional Heteroskedastic for Julia.
   
   * [TimeSeries.jl](https://juliastats.org/TimeSeries.jl/latest/) package provides convenient methods for working with time series data in Julia. 
 
@@ -84,6 +84,9 @@ The **[R](https://www.r-project.org/)** base Package contains all important pack
  * [Pandas](https://pandas.pydata.org/) is a fast, powerful, flexible and easy to use open source data analysis and manipulation tool.
  
  * [Matplotlib](https://matplotlib.org/) is a comprehensive library for creating static, animated, and interactive visualizations in Python.
+ 
+ **MATLAB**
+ * [Econometrics Toolbox™](https://www.mathworks.com/products/econometrics.html) provides functions for modeling economic data.
 ---
 
 #### References
