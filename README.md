@@ -18,13 +18,11 @@ In Addition to that there are some [Datasets](https://github.com/jonas7654/Econo
 
 * [Essence of Linear Algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) by 3Blue1Brown, for a more intuitive approach to Linear Algebra
 
-Some Additional reading:
-
-- [Linear Algebra](https://web.calpoly.edu/~jborzell/Courses/Year%2010-11/Fall%202010/Petersen-Linear_Algebra-Math_306.pdf) by Peter Petersen - Chapters 1, 2.
+A more rigorous approach:
 
 - [Linear Algebra](http://joshua.smcvt.edu/linearalgebra/#current_version) by Jim Hefferon.
 
-A more intuitive approach to Linear Algebra
+A more intuitive approach in Addition to [MIT 18.06 by Gilbert Strang](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
 - [Linear Algebra Done Wrong](https://www.math.brown.edu/~treil/papers/LADW/LADW_2017-09-04.pdf)
 
 - [Immersive Linear Algebra](http://immersivemath.com/ila/index.html), an interactive web-book entirely on linear algebra.
