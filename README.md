@@ -5,57 +5,8 @@
 ### Introduction to Linear Algebra
 
 * [MIT 18.06 by Gilbert Strang](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/) 
-* [Gilbert Strang - Introduction to Linear Algebra (2016, Wellesley-Cambridge Press)](https://github.com/ParikhKadam/Introduction-to-Linear-Algebra-5th-Edition---EE16A/raw/master/Ed%205%2C%20Gilbert%20Strang%20-%20Introduction%20to%20Linear%20Algebra%20(2016%2C%20Wellesley-Cambridge%20Press).pdf) *corresponding book to MIT 18.06
+* [Gilbert Strang - Introduction to Linear Algebra (2016, Wellesley-Cambridge Press)](https://github.com/ParikhKadam/Introduction-to-Linear-Algebra-5th-Edition---EE16A/raw/master/Ed%205%2C%20Gilbert%20Strang%20-%20Introduction%20to%20Linear%20Algebra%20(2016%2C%20Wellesley-Cambridge%20Press).pdf) corresponding book to MIT 18.06
 * [Essence of Linear Algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) by 3Blue1Brown for a more intuitive approach to Linear Algebra
----
-
-### Part 0 ― Preliminaries
-
-1. [The World of Mathematical Reality](https://www.youtube.com/watch?v=V1gT2f3Fe44) by Paul Lockhart, *if you want a small taste of why math-people like math in itself - and maybe you should too!*
-2. [Understanding Mathematics](http://www.math.utah.edu/~pa/math.html), a study guide by [Peter Alfeld](http://www.math.utah.edu/~pa/), *in case you feel lost.*
-3. [3blue1brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/playlists), *for exceptionally accessible videos on a wide range of topics.*
-4. [Understanding Mathematics](https://github.com/nelson-brochado/understanding-math), *for more resources on the basics of understanding mathematics and its peculiarities.*
-
----
-
-### Part 1 ― Foundations
-
-**Cores**: sets, functions, relations, proofs and proof methods.
-
-For a precise introductory treatment:
-
-- [Basic Concepts of Mathematics](http://www.trillia.com/zakon1.html) by Elias Zakon
-
-For a more intensive discussion:
-
-- [An Introduction to Set Theory](http://www.math.toronto.edu/weiss/set_theory.pdf) by William A. R. Weiss
-
----
-
-> As a side note, know that E700 covers a number of topics and concepts which cast a wide web of mathematical tools ― many of which we must posses to understand modern economic theory and practice in detail. Thus all of the following resources have some degree of "intersection": you will find topics from one part also presented in a source listed for another part. 
->
-> Use whichever resource you consider best *for your learning*. **This said, the material seen in class should *always* be the reference point.**
-
----
-
-### Part 2 ― Spaces and Metrics
-
-**Cores**: metric & normed spaces, convergence of sequences, continuity, compactness of sets.
-
-These topics fall mostly under the umbrella of *topology*, and you can take a look at:
-
-- [Understanding Analysis](http://cms.dm.uba.ar/academico/materias/verano2012/taller_de_calculo_avanzado/Libros/Abbott%20-%20Understanding%20Analysis.pdf) by Stephen Abbott - Chapters 2, 3, 4, *is the most accessible resource for this Part*.
-
-- [Principles of Mathematical Analysis](https://notendur.hi.is/vae11/%C3%9Eekking/principles_of_mathematical_analysis_walter_rudin.pdf) by Walter Rudin - Chapters 1, 2, 3, 4.
-
-- [General Topology](https://webusers.imj-prg.fr/~pierre.schapira/lectnotes/Topo.pdf) - Chapters 1, 2, 3.
-- [Modern Real Analysis](http://www.math.purdue.edu/~torres/pubs/Modern-real-analysis.pdf) - Chapter 3.
-- [Real Analysis I](https://www.jirka.org/ra/realanal.pdf) - Chapters 2, 3.
-
-For a more general overview (YouTube):
-
-- [Abstract Vector Spaces](https://youtu.be/TgKwz5Ikpc8) *by 3blue1brown.*
-
 ---
 
 ### Part 3  ― Vectors and Matrices
@@ -72,31 +23,12 @@ However because linear algebra is not always intuitive, especially in high dimen
 - [Linear Algebra Done Wrong](https://www.math.brown.edu/~treil/papers/LADW/LADW_2017-09-04.pdf)
 - [Immersive Linear Algebra](http://immersivemath.com/ila/index.html), *an interactive web-book entirely on linear algebra.*
 
-Videos (YouTube):
-
-- [Essence of Linear Algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) *by 3blue1brown.*
 
 ---
 
- ### Part 4 ― Differentiation and Optimization
-
-**Cores**: multivariable differentiation, constrained/unconstrained optimization.
-
-Regarding *differentiation* (this topic is also easily covered on Wikipedia, e.g.) take a look at:
-
-- [Principles of Mathematical Analysis](https://notendur.hi.is/vae11/%C3%9Eekking/principles_of_mathematical_analysis_walter_rudin.pdf) by Walter Rudin - Chapter 5.
-
-- [The Calculus of Functions of Several Variables](http://www.synechism.org/wp/the-calculus-of-functions-of-several-variables/) - Chapters 2, 3.
-- [Active Calculus (Multivariable)](https://activecalculus.org/ACM.html) 
+ 
 - [Mathematics for Economists](https://primo.bib.uni-mannheim.de/permalink/f/19ojnqi/MAN_ALMA21119931390002561) - Part III.
 
-While for *optimization* (in Economics we usually consider a pretty specific subset of optimization techniques) it is best to follow:
-
-- [Mathematics for Economists](https://primo.bib.uni-mannheim.de/permalink/f/19ojnqi/MAN_ALMA21119931390002561) - Part IV.
-
-Lastly, MIT Professor Gilbert Strang recorded masterful lectures on calculus, and you can find them (and the accompanying book) on MIT OpenCourseware:
-
--  [Calculus by G. Strang](https://ocw.mit.edu/resources/res-18-001-calculus-online-textbook-spring-2005/textbook/) 
 
 ---
 
