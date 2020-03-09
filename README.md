@@ -52,9 +52,17 @@ To apply the models discussed in your Econometrics course we usually use Softwar
  
  
  ***List of Packages for R,Julia,Python to begin with***
--The [R](https://www.r-project.org/) base Package contains all important packages for your model estimations. However sometimes there are packages who are better and easier to use in comparison to the base packages. I will list a few useful packages below.
+ The [R](https://www.r-project.org/) base Package contains all important packages for your model estimations. However sometimes there are packages who are better and easier to use in comparison to the base packages. I will list a few useful packages below.
  * [Tidyverse](https://www.tidyverse.org/) offers a variety of packages for data manipulation, plotting and importing. 
+ * [sandwich](https://cran.r-project.org/web/packages/sandwich/index.html) for heteroskedastic variance estimation and more. See [here](https://cran.r-project.org/web/packages/sandwich/sandwich.pdf) for more information
  
+ - [Julia](https://julialang.org/) is not a statistical programming language in generel. But there are some useful Statistics packages.
+  * [StatsBase.jl](https://docs.julialang.org/en/v1/stdlib/Statistics/) for basic statistics functionality.
+  * [Distributions.jl](https://github.com/JuliaStats/Distributions.jl) A Julia package for probability distributions and associated functions.
+  * [GLM.jl](https://juliastats.org/GLM.jl/stable/manual/) Linear and generalized linear models in Julia.
+  * [Microeconometrics.jl](https://lbittarello.github.io/Microeconometrics.jl/stable/getting_started/) support for microeconometric estimation
+  * [GARCH.jl](https://github.com/AndreyKolev/GARCH.jl) Generalized Autoregressive Conditional Heteroskedastic for Julia
+  * [TimeSeries.jl](https://juliastats.org/TimeSeries.jl/latest/) package provides convenient methods for working with time series data in Julia. 
 
 ---
 
