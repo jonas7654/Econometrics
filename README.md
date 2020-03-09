@@ -59,7 +59,7 @@ for some introduction to Statistics,Probability and asymptotics
 ### Software
 To apply the models discussed in your Econometrics course we usually use Software. I will list some of the common used Software in Econometrics.
 
-***Open Source Software***
+**Open Source Software**
  - [R](https://www.r-project.org/) is a free software environment for statistical computing and graphics
  
  - [RStudio](https://rstudio.com/) is an integrated development environment for R. I recommend to use RStudio since it has a                        great GUI and additional tools e.g. for an easier package management. An introduction to R is given [here](https://r4ds.had.co.nz/introduction.html).
@@ -68,13 +68,13 @@ To apply the models discussed in your Econometrics course we usually use Softwar
  
  - [Python](https://www.python.org/) is also a general purpose language widespread under scientists from all disciplines. An introduction to econometrics in Python is given [here](https://pyecon.org/down/pyecon.pdf).
  
-***Proprietary Software***
+**Proprietary Software**
  - [STATA](https://www.stata.com/) is a general-purpose statistical software package. Many economists use STATA. An introduction to econometrics in STATA is given [here](https://github.com/jonas7654/Econometrics/blob/master/pdf/using_stata_for_principles_of_econometrics.pdf).
  
  - [MATLAB](https://www.mathworks.com/products/matlab.html) (matrix laboratory) is a multi-paradigm numerical computing  environment programming language. An introduction in Econometrics in MATLAB is given [here](https://www.mathworks.com/help/econ/).
  
  
- ***List of Packages for R,Julia,Python to begin with***
+ **List of Packages for [R](https://www.r-project.org/) , [Julia](https://julialang.org/) , [Python](https://www.python.org/), [MATLAB](https://www.mathworks.com/products/matlab.html) to begin with**
 
 
 The **[R](https://www.r-project.org/)** base Package contains all important packages for your model estimations. However sometimes there are packages who are better and easier to use in comparison to the base packages. I will list a few useful packages below.
