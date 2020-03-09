@@ -64,9 +64,9 @@ To apply the models discussed in your Econometrics course we usually use Softwar
  
  - [RStudio](https://rstudio.com/) is an integrated development environment for R. I recommend to use RStudio since it has a                        great GUI and additional tools e.g. for an easier package management. An introduction to R is given [here](https://r4ds.had.co.nz/introduction.html).
  
- - [Julia](https://julialang.org/) is a relatively new **high performance** programming Language. It is a gerneral purpose language aiming for easy useage and high performance. Consider [Atom](https://atom.io/) as an IDE. An introduction to Econometrics is given [here](https://github.com/mcreel/Econometrics/blob/master/econometrics.pdf).
+ - [Julia](https://julialang.org/) is a relatively new **high performance** programming Language. It is a gerneral purpose language aiming for easy useage and high performance. Consider [Atom](https://atom.io/) as an IDE. An introduction to Econometrics in Julia is given [here](https://github.com/mcreel/Econometrics/blob/master/econometrics.pdf).
  
- - [Python](https://www.python.org/) is also a general purpose language widespread under scientists from all disciplines. An introduction to econometrics in Python is given [here](https://pyecon.org/down/pyecon.pdf).
+ - [Python](https://www.python.org/) is also a general purpose language widespread under scientists from all disciplines. An introduction to Econometrics in Python is given [here](https://pyecon.org/down/pyecon.pdf).
  
 **Proprietary Software**
  - [STATA](https://www.stata.com/) is a general-purpose statistical software package. Many economists use STATA. An introduction to econometrics in STATA is given [here](https://github.com/jonas7654/Econometrics/blob/master/pdf/using_stata_for_principles_of_econometrics.pdf).
