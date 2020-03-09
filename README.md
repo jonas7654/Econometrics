@@ -32,7 +32,7 @@ for some introduction to Statistics,Probability and asymptotics
 - [Understanding Analysis](http://cms.dm.uba.ar/academico/materias/verano2012/taller_de_calculo_avanzado/Libros/Abbott%20-%20Understanding%20Analysis.pdf) by Stephen Abbott - Chapters 6, 7, 
 - [Principles of Mathematical Analysis](https://notendur.hi.is/vae11/%C3%9Eekking/principles_of_mathematical_analysis_walter_rudin.pdf) by Walter Rudin - Chapters 6, 11.
 
-- [An introduction to measure theory](https://terrytao.files.wordpress.com/2011/01/measure-book1.pdf) by Terence Tao *
+- [An introduction to measure theory](https://terrytao.files.wordpress.com/2011/01/measure-book1.pdf) by Terence Tao.
 
 - [A Crash Course on the Lebesgue Integral and Measure Theory](https://www.gold-saucer.org/math/lebesgue/lebesgue.pdf)
 
@@ -87,8 +87,3 @@ The **[R](https://www.r-project.org/)** base Package contains all important pack
  
  **MATLAB**
  * [Econometrics Toolbox™](https://www.mathworks.com/products/econometrics.html) provides functions for modeling economic data.
----
-
-#### References
-
-https://github.com/rossant/awesome-math
