@@ -42,18 +42,26 @@ To apply the models discussed in your Econometrics course we usually use Softwar
 
 ***Open Source Software***
  - [R](https://www.r-project.org/) is a free software environment for statistical computing and graphics
+ 
  - [RStudio](https://rstudio.com/) is an integrated development environment for R. I recommend to use RStudio since it has a                        great GUI and additional tools e.g. for an easier package management. An introduction to R is given [here](https://r4ds.had.co.nz/introduction.html)
+ 
  - [Julia](https://julialang.org/) is a relatively new **high performance** programming Language. It is a gerneral purpose language aiming for easy useage and high performance. Consider [Atom](https://atom.io/) as an IDE. An introduction to Econometrics is given [here](https://github.com/mcreel/Econometrics/blob/master/econometrics.pdf)
+ 
  - [Python](https://www.python.org/) is also a general purpose language widespread under scientists from all disciplines. An introduction to econometrics in Python is given [here](https://pyecon.org/down/pyecon.pdf)
  
 ***Proprietary Software***
  - [STATA](https://www.stata.com/) is a general-purpose statistical software package. Many economists use STATA.
+ 
  - [MATLAB](https://www.mathworks.com/products/matlab.html) (matrix laboratory) is a multi-paradigm numerical computing  environment programming language.
  
  
  ***List of Packages for R,Julia,Python to begin with***
- The [R](https://www.r-project.org/) base Package contains all important packages for your model estimations. However sometimes there are packages who are better and easier to use in comparison to the base packages. I will list a few useful packages below.
+
+
+The [R](https://www.r-project.org/) base Package contains all important packages for your model estimations. However sometimes there are packages who are better and easier to use in comparison to the base packages. I will list a few useful packages below.
+ 
  * [Tidyverse](https://www.tidyverse.org/) offers a variety of packages for data manipulation, plotting and importing. 
+ 
  * [sandwich](https://cran.r-project.org/web/packages/sandwich/index.html) for heteroskedastic variance estimation and more. See [here](https://cran.r-project.org/web/packages/sandwich/sandwich.pdf) for more information
  
  - [Julia](https://julialang.org/) is not a statistical programming language in generel. But there are some useful Statistics packages.
