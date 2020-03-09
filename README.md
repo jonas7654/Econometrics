@@ -60,9 +60,9 @@ for some introduction to Statistics,Probability and asymptotics
 To apply the models discussed in your Econometrics course we usually use Software. I will list some of the common used Software in Econometrics below.
 
 **Open Source Software**
- - [R](https://www.r-project.org/) is a free software environment for statistical computing and graphics
+ - [R](https://www.r-project.org/) is a free software environment for statistical computing and graphics. [recommended reading](https://r4ds.had.co.nz/index.html).
  
- - [RStudio](https://rstudio.com/) is an integrated development environment for R. I recommend to use RStudio since it has a                        great GUI and additional tools e.g. for an easier package management. An introduction to R is given [here](https://r4ds.had.co.nz/introduction.html).
+ - [RStudio](https://rstudio.com/) is an integrated development environment for R. I recommend to use RStudio since it has a                        great GUI and additional tools e.g. for an easier package management. An introduction to Econometrics in R is given [here](https://github.com/jonas7654/Econometrics/blob/master/pdf/Econometrics_in_R.pdf)
  
  - [Julia](https://julialang.org/) is a relatively new **high performance** programming Language. It is a gerneral purpose language aiming for easy useage and high performance. Consider [Atom](https://atom.io/) as an IDE. An introduction to Econometrics in Julia is given [here](https://github.com/mcreel/Econometrics/blob/master/econometrics.pdf).
  
