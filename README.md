@@ -74,7 +74,7 @@ To apply the models discussed in your Econometrics course we usually use Softwar
  - [MATLAB](https://www.mathworks.com/products/matlab.html) (matrix laboratory) is a multi-paradigm numerical computing  environment programming language. An introduction in Econometrics in MATLAB is given [here](https://www.mathworks.com/help/econ/).
  
  
- **List of Packages for [R](https://www.r-project.org/) , [Julia](https://julialang.org/) , [Python](https://www.python.org/), [MATLAB](https://www.mathworks.com/products/matlab.html) to begin with**
+ **List of Packages for [R](https://www.r-project.org/) , [Julia](https://julialang.org/) , [Python](https://www.python.org/) and [MATLAB](https://www.mathworks.com/products/matlab.html) to begin with**
 
 
 The **[R](https://www.r-project.org/)** base Package contains all important packages for your model estimations. However sometimes there are packages who are better and easier to use in comparison to the base packages. I will list a few useful packages below.
