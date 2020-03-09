@@ -78,12 +78,12 @@ The **[R](https://www.r-project.org/)** base Package contains all important pack
   
   * [TimeSeries.jl](https://juliastats.org/TimeSeries.jl/latest/) package provides convenient methods for working with time series data in Julia. 
 
- **[Python](https://www.python.org/)**
+ **[Python](https://www.python.org/)** is not a statistical programming language in generel either. But there are some useful Statistics packages.
  * [NumPy](https://numpy.org/) is the fundamental package for scientific computing with Python.
  
  * [Pandas](https://pandas.pydata.org/) is a fast, powerful, flexible and easy to use open source data analysis and manipulation tool.
  
  * [Matplotlib](https://matplotlib.org/) is a comprehensive library for creating static, animated, and interactive visualizations in Python.
  
- **MATLAB**
+ **MATLAB** comes with it's own Econometrics Toolbox™
  * [Econometrics Toolbox™](https://www.mathworks.com/products/econometrics.html) provides functions for modeling economic data.
