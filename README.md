@@ -81,7 +81,7 @@ The **[R](https://www.r-project.org/)** base Package contains all important pack
  
  * [Tidyverse](https://www.tidyverse.org/) offers a variety of packages for data manipulation, plotting and importing. 
  
- * [sandwich](https://cran.r-project.org/web/packages/sandwich/index.html) for heteroskedastic variance estimation and more. See [here](https://cran.r-project.org/web/packages/sandwich/sandwich.pdf) for more information.
+ * [sandwich](https://cran.r-project.org/web/packages/sandwich/index.html) for heteroskedastic variance estimation and [more](https://cran.r-project.org/web/packages/sandwich/sandwich.pdf).
  
 **[Julia](https://julialang.org/)** is not a statistical programming language in generel. But there are some useful Statistics packages.
 
