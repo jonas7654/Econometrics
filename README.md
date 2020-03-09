@@ -52,7 +52,7 @@ To apply the models discussed in your Econometrics course we usually use Softwar
 ***Proprietary Software***
  - [STATA](https://www.stata.com/) is a general-purpose statistical software package. Many economists use STATA. An introduction to econometrics in STATA is given [here](https://github.com/jonas7654/Econometrics/blob/master/pdf/using_stata_for_principles_of_econometrics.pdf).
  
- - [MATLAB](https://www.mathworks.com/products/matlab.html) (matrix laboratory) is a multi-paradigm numerical computing  environment programming language.
+ - [MATLAB](https://www.mathworks.com/products/matlab.html) (matrix laboratory) is a multi-paradigm numerical computing  environment programming language. An introduction in Econometrics in MATLAB is given [here](https://www.mathworks.com/help/econ/).
  
  
  ***List of Packages for R,Julia,Python to begin with***
