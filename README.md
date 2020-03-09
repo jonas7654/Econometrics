@@ -22,13 +22,13 @@ Some Additional reading:
 
 - [Linear Algebra](https://web.calpoly.edu/~jborzell/Courses/Year%2010-11/Fall%202010/Petersen-Linear_Algebra-Math_306.pdf) by Peter Petersen - Chapters 1, 2.
 
-- [Linear Algebra](http://joshua.smcvt.edu/linearalgebra/#current_version) by Jim Hefferon, *a very complete book*.
+- [Linear Algebra](http://joshua.smcvt.edu/linearalgebra/#current_version) by Jim Hefferon.
 
 - [Linear Algebra Done Wrong](https://www.math.brown.edu/~treil/papers/LADW/LADW_2017-09-04.pdf)
 
-- [Immersive Linear Algebra](http://immersivemath.com/ila/index.html), *an interactive web-book entirely on linear algebra.*
+- [Immersive Linear Algebra](http://immersivemath.com/ila/index.html), *an interactive web-book entirely on linear algebra.
  
-- [Mathematics for Economists](https://primo.bib.uni-mannheim.de/permalink/f/19ojnqi/MAN_ALMA21119931390002561) - This Book is an essential Book for Economists and covers some basic Linear Algebra
+- [Mathematics for Economists](https://primo.bib.uni-mannheim.de/permalink/f/19ojnqi/MAN_ALMA21119931390002561) - This Book is an essential Book for Economists and covers some basic Linear Algebra.
 ---
 ### Probability
 for some introduction to Statistics,Probability and asymptotics
