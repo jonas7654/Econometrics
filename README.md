@@ -38,7 +38,7 @@ for some introduction to Statistics,Probability and asymptotics
 
 ---
 ### Software
-To apply the models discussed in your Econometrics course we usually use Statistical Software. I will list a variety of Software and additional Packages.
+To apply the models discussed in your Econometrics course we usually use Software. I will list some of the common used Software in Economics.
 
 ***Open Source Software***
  - [R](https://www.r-project.org/) is a free software environment for statistical computing and graphics
@@ -49,6 +49,12 @@ To apply the models discussed in your Econometrics course we usually use Statist
 ***Proprietary Software***
  - [STATA](https://www.stata.com/) is a general-purpose statistical software package. Many economists use STATA.
  - [MATLAB](https://www.mathworks.com/products/matlab.html) (matrix laboratory) is a multi-paradigm numerical computing  environment programming language.
+ 
+ 
+ ***List of Packages for R,Julia,Python to begin with***
+-The [R](https://www.r-project.org/) base Package contains all important packages for your model estimations. However sometimes there are packages who are better and easier to use in comparison to the base packages. I will list a few useful packages below.
+ * [Tidyverse](https://www.tidyverse.org/) offers a variety of packages for data manipulation, plotting and importing. 
+ 
 
 ---
 
