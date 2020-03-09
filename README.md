@@ -29,10 +29,14 @@ Some Additional reading:
 ### Probability
 for some introduction to Statistics,Probability and asymptotics
 * [Bruce E. Hansen : Introduction to Econometrics (2020)](https://github.com/jonas7654/Econometrics/blob/master/pdf/Probability.pdf) 
+
+* [jbstatistics](https://www.youtube.com/user/jbstatistics) is a series of videos for an intuitive introduction to Statistics by  [Jeremy Balka](https://mathstat.uoguelph.ca/people/balka)
+
 ---
 ### Econometric Readings
 * [Bruce E. Hansen : Econometrics (2020)](https://github.com/jonas7654/Econometrics/blob/master/pdf/Econometrics.pdf)
 * [Stock & Watson : Introduction to econometrics (2020)](https://primo-49man.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=MAN_ALMA21219219330002561&context=L&vid=MAN_UB&lang=de_DE&search_scope=MAN_ALMA&adaptor=Local%20Search%20Engine&isFrbr=true&tab=default_tab&query=any,contains,Stock%20and%20Watson%202020&sortby=date&facet=frbrgroupid,include,140512103&mode=Basic&offset=0=)
+* [Ben Lambert's](https://www.youtube.com/user/SpartacanUsuals/featured) video series on econometrics for undergradute and graduate students
 ---
 ### Measury Theory
 **measury theory** is important and very helpful when trying to understand most statistical results
