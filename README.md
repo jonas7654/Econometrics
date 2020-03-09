@@ -70,7 +70,7 @@ To apply the models discussed in your Econometrics course we usually use Softwar
  - [Python](https://www.python.org/) is also a general purpose language widespread under scientists from all disciplines. An introduction to Econometrics in Python is given [here](https://pyecon.org/down/pyecon.pdf).
  
 **Proprietary Software**
- - [STATA](https://www.stata.com/) is a general-purpose statistical software package. Many economists use STATA. An introduction to econometrics in STATA is given [here](https://github.com/jonas7654/Econometrics/blob/master/pdf/using_stata_for_principles_of_econometrics.pdf).
+ - [STATA](https://www.stata.com/) is a general-purpose statistical software package. Many economists use STATA. An introduction to Econometrics in STATA is given [here](https://github.com/jonas7654/Econometrics/blob/master/pdf/using_stata_for_principles_of_econometrics.pdf).
  
  - [MATLAB](https://www.mathworks.com/products/matlab.html) (matrix laboratory) is a multi-paradigm numerical computing  environment programming language. An introduction to Econometrics in MATLAB is given [here](https://www.mathworks.com/help/econ/).
  
