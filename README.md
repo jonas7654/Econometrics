@@ -12,7 +12,7 @@ In Addition to that there are some [Datasets](https://github.com/jonas7654/Econo
 ---
 ### Introduction to Linear Algebra
 
-* [MIT 18.06 by Gilbert Strang](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/) one of the greatest Linear Algebra lectures out there. This course focuses on intuition and calculation rather then rigorous proofs.
+* [MIT 18.06 by Gilbert Strang](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/) one of the greatest Linear Algebra lecture series out there. This course focuses on intuition and calculation rather then rigorous proofs.
 
 * [Gilbert Strang - Introduction to Linear Algebra (2016, Wellesley-Cambridge Press)](https://github.com/ParikhKadam/Introduction-to-Linear-Algebra-5th-Edition---EE16A/raw/master/Ed%205%2C%20Gilbert%20Strang%20-%20Introduction%20to%20Linear%20Algebra%20(2016%2C%20Wellesley-Cambridge%20Press).pdf) corresponding book to MIT 18.06
 
