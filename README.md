@@ -77,7 +77,7 @@ To apply the models discussed in your Econometrics course we usually use Softwar
  **List of Packages for [R](https://www.r-project.org/) , [Julia](https://julialang.org/) , [Python](https://www.python.org/) and [MATLAB](https://www.mathworks.com/products/matlab.html) to begin with**
 
 
-The **[R](https://www.r-project.org/)** base Package contains all important packages for your model estimations. However sometimes there are packages who are better and easier to use in comparison to the base packages. I will list a few useful packages below.
+The **[R](https://www.r-project.org/)** base package contains all important packages for your model estimations. However there are packages who are better and easier to use in comparison to the base package. I will list a few useful packages below.
  
  * [Tidyverse](https://www.tidyverse.org/) offers a variety of packages for data manipulation, plotting and importing. 
  
