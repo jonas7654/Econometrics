@@ -30,8 +30,8 @@ Some Additional reading:
  
 - [Mathematics for Economists](https://primo.bib.uni-mannheim.de/permalink/f/19ojnqi/MAN_ALMA21119931390002561) - This Book is an essential Book for Economists and covers some basic Linear Algebra.
 ---
-### Probability
-for some introduction to Statistics,Probability and asymptotics
+### Statistics
+for some introduction to Statistics, Probability and Asymptotics
 * [Bruce E. Hansen : Introduction to Econometrics (2020)](https://github.com/jonas7654/Econometrics/blob/master/pdf/Probability.pdf) 
 
 * [jbstatistics](https://www.youtube.com/user/jbstatistics) is a series of videos for an intuitive introduction to Statistics by  [Jeremy Balka](https://mathstat.uoguelph.ca/people/balka)
