@@ -7,9 +7,11 @@
 * [MIT 18.06 by Gilbert Strang](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/) 
 * [Gilbert Strang - Introduction to Linear Algebra (2016, Wellesley-Cambridge Press)](https://github.com/ParikhKadam/Introduction-to-Linear-Algebra-5th-Edition---EE16A/raw/master/Ed%205%2C%20Gilbert%20Strang%20-%20Introduction%20to%20Linear%20Algebra%20(2016%2C%20Wellesley-Cambridge%20Press).pdf) corresponding book to MIT 18.06
 * [Essence of Linear Algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) by 3Blue1Brown for a more intuitive approach to Linear Algebra
+
+― Vectors and Matrices
 ---
 
-### Part 3  ― Vectors and Matrices
+### Part   ― Vectors and Matrices
 
 **Cores**: vectors, matrix algebra, linear transforms, eigenvalues.
 
@@ -49,11 +51,8 @@ However, good resources on these topics are:
 - [An introduction to measure theory](https://terrytao.files.wordpress.com/2011/01/measure-book1.pdf) by Terence Tao, *one of the great contemporary mathematicians.*
 - [A Crash Course on the Lebesgue Integral and Measure Theory](https://www.gold-saucer.org/math/lebesgue/lebesgue.pdf)
 
-Note that when you learn measure theory, you *also* learn *Lebesgue–Stieltjes integration*, which is the bedrock of modern probability theory - a skill you'll use forever!
-
 ---
 
-#### Acknowledgements
+#### References
 
-Most links are taken from:	https://github.com/rossant/awesome-math 
-
+https://github.com/rossant/awesome-math
