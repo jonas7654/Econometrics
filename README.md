@@ -17,14 +17,14 @@ Some Additional reading:
 - [Immersive Linear Algebra](http://immersivemath.com/ila/index.html), *an interactive web-book entirely on linear algebra.*
 
  
-- [Mathematics for Economists](https://primo.bib.uni-mannheim.de/permalink/f/19ojnqi/MAN_ALMA21119931390002561) - This Book is a essential Book for Economists and covers some basic Linear Algebra
+- [Mathematics for Economists](https://primo.bib.uni-mannheim.de/permalink/f/19ojnqi/MAN_ALMA21119931390002561) - This Book is an essential Book for Economists and covers some basic Linear Algebra
 
 ---
 ### Econometric Readings
 * [Bruce E. Hansen (2020) : Econometrics](https://github.com/jonas7654/Econometrics/blob/master/pdf/Econometrics.pdf)
 ---
 ### Measury Theory
-***measury theory*** is important and very helpful when tring to understand most statistical results
+***measury theory*** is important and very helpful when trying to understand most statistical results
 
 - [Understanding Analysis](http://cms.dm.uba.ar/academico/materias/verano2012/taller_de_calculo_avanzado/Libros/Abbott%20-%20Understanding%20Analysis.pdf) by Stephen Abbott - Chapters 6, 7, 
 - [Principles of Mathematical Analysis](https://notendur.hi.is/vae11/%C3%9Eekking/principles_of_mathematical_analysis_walter_rudin.pdf) by Walter Rudin - Chapters 6, 11.
