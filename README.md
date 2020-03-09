@@ -42,9 +42,9 @@ To apply the models discussed in your Econometrics course we usually use Softwar
 
 ***Open Source Software***
  - [R](https://www.r-project.org/) is a free software environment for statistical computing and graphics
- - [RStudio](https://rstudio.com/) is an integrated development environment for R. I recommend to use RStudio since it has a                        great GUI and additional tools e.g. for an easier package management
- - [Julia](https://julialang.org/) is a relatively new **high performance** programming Language. It is a gerneral purpose language aiming for easy useage and high performance.
- - [Python](https://www.python.org/) is also a general purpose language widespread under scientists from all disciplines.
+ - [RStudio](https://rstudio.com/) is an integrated development environment for R. I recommend to use RStudio since it has a                        great GUI and additional tools e.g. for an easier package management. An introduction to R is given [here](https://r4ds.had.co.nz/introduction.html)
+ - [Julia](https://julialang.org/) is a relatively new **high performance** programming Language. It is a gerneral purpose language aiming for easy useage and high performance. Consider [Atom](https://atom.io/) as an IDE. An introduction to Econometrics is given [here](https://github.com/mcreel/Econometrics/blob/master/econometrics.pdf)
+ - [Python](https://www.python.org/) is also a general purpose language widespread under scientists from all disciplines. An introduction to econometrics in Python is given [here](https://pyecon.org/down/pyecon.pdf)
  
 ***Proprietary Software***
  - [STATA](https://www.stata.com/) is a general-purpose statistical software package. Many economists use STATA.
@@ -64,6 +64,10 @@ To apply the models discussed in your Econometrics course we usually use Softwar
   * [GARCH.jl](https://github.com/AndreyKolev/GARCH.jl) Generalized Autoregressive Conditional Heteroskedastic for Julia
   * [TimeSeries.jl](https://juliastats.org/TimeSeries.jl/latest/) package provides convenient methods for working with time series data in Julia. 
 
+ ***Python***
+ * [NumPy](https://numpy.org/) is the fundamental package for scientific computing with Python.
+ * [Pandas](https://pandas.pydata.org/) is a fast, powerful, flexible and easy to use open source data analysis and manipulation tool.
+ * [Matplotlib](https://matplotlib.org/) is a comprehensive library for creating static, animated, and interactive visualizations in Python.
 ---
 
 #### References
