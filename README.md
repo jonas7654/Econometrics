@@ -84,7 +84,7 @@ The **[R](https://www.r-project.org/)** base package contains all important pack
  
  * [sandwich](https://cran.r-project.org/web/packages/sandwich/index.html) for heteroskedastic variance estimation and [more](https://cran.r-project.org/web/packages/sandwich/sandwich.pdf).
  
-**[Julia](https://julialang.org/)** is not a statistical programming language in generel. But there are some useful Statistics packages.
+**[Julia](https://julialang.org/)** is not a statistical programming language in general. But there are some useful Statistics packages.
 
   * [StatsBase.jl](https://docs.julialang.org/en/v1/stdlib/Statistics/) for basic statistics functionality.
   
